@@ -17,6 +17,6 @@ public class Main {
 
     public static int evanCommand(int yeah) {
         System.out.println("shit" + yeah);
-        return yeah * 2;
+        return yeah * 3;
     }
 }
