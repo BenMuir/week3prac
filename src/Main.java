@@ -12,5 +12,5 @@ public class Main {
             System.out.println("i = " + i);
             System.out.println("Testing");
         }
-    } heehehehlsfljdasljdfasdljf - ben muir week 3 teest
+    }
 } //testing hi nash
